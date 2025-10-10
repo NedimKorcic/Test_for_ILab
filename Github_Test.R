@@ -10,4 +10,7 @@ author <- "Nedim Korcic"
 
 author
 
+author2 <- "NK"
 
+author2
+bbfbf
